@@ -21,7 +21,6 @@ Some of my academic projects are hosted in private repositories due to honor cod
 - Working on enahancing **Metro Live** with a more polished frontend and implementing more features
 - Learning **AWS** and **React Native**
 - Planning to finish and deploy my **portfolio website**
-- Preparing to start a **mini Tinder clone** project
 
 
 **Actively Seeking:**
